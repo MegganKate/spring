@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author meggan.naude
+ *
+ */
+module spring {
+	requires spring.context;
+}
